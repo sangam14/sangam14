@@ -1,7 +1,5 @@
 ### Welcome 
 
-
-![](https://raw.githubusercontent.com/sangam14/sangam14/master/assets/banner-git.png)
 ![](https://raw.githubusercontent.com/sangam14/sangam14/master/assets/banner-git-1.png)
 
 
