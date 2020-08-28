@@ -2,15 +2,11 @@
 
 ![](https://raw.githubusercontent.com/sangam14/sangam14/master/assets/banner-git-1.png)
 
-
 ![](https://komarev.com/ghpvc/?username=sangam14)
-
-- Working on Open Source Digital University for Software Engineer 
-
-- [ContainerLabs](https://containerlabs.kubedaily.com/)
-- [Gopherlabs](https://gopherlabs.kubedaily.com/)
-- [RustLabs](https://rustlabs.kubedaily.com/)
-
+- Working on Open Source Digital University for Software Engineer <br>
+[ContainerLabs](https://containerlabs.kubedaily.com/)<br>
+[Gopherlabs](https://gopherlabs.kubedaily.com/)<br>
+[RustLabs](https://rustlabs.kubedaily.com/) <br>
 Coming Soon ...
 - [XCloudLabs]
 - [PythonLabs]
