@@ -7,9 +7,9 @@
 [ContainerLabs](https://containerlabs.kubedaily.com/)<br>
 [Gopherlabs](https://gopherlabs.kubedaily.com/)<br>
 [RustLabs](https://rustlabs.kubedaily.com/) <br>
+[XCloudLabs](https://xcloudlabs.kubedaily.com/) <br> 
+[PythonLabs](https://github.com/sangam14/PythonLabs) <br> 
 Coming Soon ...
-- [XCloudLabs]
-- [PythonLabs]
 - [TypeScript]
 - [ComputerNetworking]
 - [Data Science]
