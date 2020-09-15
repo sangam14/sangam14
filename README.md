@@ -2,6 +2,25 @@
 
 ![](https://raw.githubusercontent.com/sangam14/sangam14/master/assets/banner-git-1.png)
 
+<p float="left">
+  <a href="https://gopherlabs.kubedaily.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+  </a> 
+ <a href="https://containerlabs.kubedaily.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/docker.gif"  height="90" />
+  </a> 
+<a href="https://containerlabs.kubedaily.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/k8s.gif"  height="90" />
+ </a> 
+    <a href="https://okteto.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/okteto.webp"  height="90" />
+  </a> 
+  <a href="https://gopherlabs.kubedaily.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/grpc.gif"  height="90" />
+  </a>
+</p>
+
+
 ![](https://komarev.com/ghpvc/?username=sangam14)
 -  Open Source Digital University for Software Engineer <br>
 [ContainerLabs](https://containerlabs.kubedaily.com/)<br>
