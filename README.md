@@ -4,7 +4,10 @@
 
 <p float="left">
   <a href="https://gopherlabs.kubedaily.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/golang.gif"  height="90" />
+  </a> 
+  <a href="https://gopherlabs.kubedaily.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/rust.gif"  height="90" />
   </a> 
  <a href="https://containerlabs.kubedaily.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/docker.gif"  height="90" />
