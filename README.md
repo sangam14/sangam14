@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/grpc.gif"  height="90" />
   </a>
   <a href="" target="_blank" >
-    <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/traefik.png"  height="90" />
+    <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/Ambassador-symbol3x-2.png"  height="90" />
   </a>
     <a href="" target="_blank" >
     <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/aws.gif"  height="90" />
