@@ -38,17 +38,14 @@
 
 
 ![](https://komarev.com/ghpvc/?username=sangam14)
--  Open Source Digital University for Software Engineer <br>
-[ContainerLabs](https://containerlabs.kubedaily.com/)<br>
-[Gopherlabs](https://gopherlabs.kubedaily.com/)<br>
-[RustLabs](https://rustlabs.kubedaily.com/) <br>
-[XCloudLabs](https://xcloudlabs.kubedaily.com/) <br> 
-[PythonLabs](https://github.com/sangam14/PythonLabs) <br> 
-Coming Soon ...
-- [TypeScript]
-- [ComputerNetworking]
-- [Data Science]
-- [IOT]
+# Open Source Digital University for Software Engineer 
+
+[![Gopherlabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=GopherLabs)](https://github.com/sangam14/GopherLabs)
+[![Containerlabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=ContainerLabs)](https://github.com/sangam14/ContainerLabs)
+[![RustLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=RustLabs)](https://github.com/sangam14/RustLabs)
+[![PythonLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=PythonLabs)](https://github.com/sangam14/PythonLabs)
+[![XCloudLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=XCloudLabs)](https://github.com/sangam14/XCloudLabs)
+[![ReactLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=ReactLabs)](https://github.com/sangam14/ReactLabs)
 
 <!--
 **sangam14/sangam14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
