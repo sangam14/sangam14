@@ -1,6 +1,5 @@
 ### Welcome To Hub
 
-![](https://raw.githubusercontent.com/sangam14/sangam14/master/assets/banner-git-1.png)
 
 <p float="left">
   <a href="https://gopherlabs.kubedaily.com/" target="_blank" >
