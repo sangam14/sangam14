@@ -46,6 +46,8 @@
 [![XCloudLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=XCloudLabs)](https://github.com/sangam14/XCloudLabs)
 [![ReactLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=ReactLabs)](https://github.com/sangam14/ReactLabs)
 
+![Sangam's github stats](https://github-readme-stats.vercel.app/api?username=sangam14&hide=issues&show_icons=true)
+
 <!--
 **sangam14/sangam14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
