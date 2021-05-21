@@ -3,7 +3,7 @@
 Hi, Sangam here ,
 - Working as Developer Advocate APAC , Accurics 
 - Docker Community Leader Award Winner 2020 
-- currently Building Communities & helping other developers 
+- Currently Building Communities & helping Other developers 
 
 
 ![](https://komarev.com/ghpvc/?username=sangam14)
