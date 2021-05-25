@@ -1,9 +1,8 @@
-### Welcome To Hub
+## $whoiam
 
-Hi, Sangam here ,
-- Working as Developer Advocate APAC , Accurics 
-- Docker Community Leader Award Winner 2020 
-- Currently Building Communities & helping Other developers 
+Sangam is working as Developer Advocate APAC at Accurics with focus on Cyber resilience can only be achieved through self-healing cloud native infrastructure. also Docker Community Award Winner at Dockercon2020 / Okteto Community Leader & Co-Author of Learn Lightweight Kubernetes with k3s (2019) , 
+Packt Publication & also run Independent KubeDaily community. 
+reach out me @BiradarSangam
 
 
 ![](https://komarev.com/ghpvc/?username=sangam14)
