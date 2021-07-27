@@ -1,22 +1,16 @@
-## $whoiam
+<img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/github-profile.png">
 
-Sangam is working as Developer Advocate APAC at Accurics with focus on Cyber resilience can only be achieved through self-healing cloud native infrastructure. also Docker Community Award Winner at Dockercon2020 / Okteto Community Leader & Co-Author of Learn Lightweight Kubernetes with k3s (2019) , 
-Packt Publication & also run Independent KubeDaily community. 
-reach out me @BiradarSangam
+🖥  Working as Developer Advocate APAC at [Accurics](https://www.accurics.com)  
+🐳 Docker Community Leader Award Winner @DockerCon2020 
+🙋‍♂️ I Run [Docker Community Bangalore]( https://www.meetup.com/Docker-Bangalore/) attractes over 10,538+ members 
+✍️ recognized Author - [lightweight kubernetes with k3s](https://www.packtpub.com/product/lightweight-kubernetes-with-k3s-video/9781838821173) with Packt Publication
+🛠 founded [Okteto Bangalore Meetup](https://www.meetup.com/Okteto-Bangalore/) attracts over 500+ members 
 
+📲  Chat with me about Containers , Golang , Rustlang & Cloud native at [KubeDaily Community](http://discord.kubedaily.live) - 1200 active members 
 
 
 ![](https://komarev.com/ghpvc/?username=sangam14)
-# Open Source Digital University for Software Engineer 
 
-[![Gopherlabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=GopherLabs)](https://github.com/sangam14/GopherLabs)
-[![Containerlabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=ContainerLabs)](https://github.com/sangam14/ContainerLabs)
-[![RustLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=RustLabs)](https://github.com/sangam14/RustLabs)
-[![PythonLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=PythonLabs)](https://github.com/sangam14/PythonLabs)
-[![XCloudLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=XCloudLabs)](https://github.com/sangam14/XCloudLabs)
-[![ReactLabs](https://github-readme-stats.vercel.app/api/pin/?username=sangam14&repo=ReactLabs)](https://github.com/sangam14/ReactLabs)
-
-![Sangam's github stats](https://github-readme-stats.vercel.app/api?username=sangam14&hide=issues&show_icons=true)
 
 <!--
 **sangam14/sangam14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
