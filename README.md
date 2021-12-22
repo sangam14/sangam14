@@ -13,3 +13,6 @@
 
 📖 Learn with me :- [Golang](http://gopherlabs.kubedaily.com),[Docker,Kubernetes](https://www.containerlabs.kubedaily.com),[Rustlang](https://rustlabs.kubedaily.com),[Gitops](https://github.com/sangam14/GitOpsLabs) 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangam14&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=sangam14&color=lightgrey)
