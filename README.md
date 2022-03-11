@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/github-profile.png">
 
 🖥  Working as Technical Advocate at [Tenable](https://www.tenable.com) <br> 
+👷‍♂️👷 AWS Community Builder | CD foundation Community Builder <br>
 🎙 [Voice of TerraScan Talks](https://www.youtube.com/watch?v=WJGz9hcNasA&list=PL379yZYwlGSEBKy02QMY_MCGlaj5BTRJU) <br>
 🔴 live streaming on [KubeDaily](http://kubedaily.live) & [CloudNativeFolks](https://github.com/cloudnativefolks) <br>
 🐳 [Docker Community Leader Award Winner @DockerCon2020](https://youtu.be/YwHMwWT-at0?t=251) <br>
