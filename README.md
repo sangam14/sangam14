@@ -24,5 +24,11 @@
 [May. 15, 2020 5 cool ways to get started with Cloud Native Development ( with Okteto)](https://www.slideshare.net/sangambiradar370/5-cool-ways-to-get-started-with-cloud-native-development-with-okteto) <br> 
 [May. 16, 2020 Happy Helming With Okteto](https://www.slideshare.net/sangambiradar370/happy-helming-with-okteto) <br>
 [Dockerize Spago Self Contained ML & NLP Library & Deploy on Okteto Cloud Using Okteto Stack](https://www.linkedin.com/in/sangambiradar/details/featured/1612179458750/single-media-viewer/)<br>
-
+[All Day Devops 2021 - Talk Title - less risky business way to reduce cloud native provisioning issues](https://slides.com/sangambiradar/addo-sangambiradar)<br>
+[Extend GitOps Security With TerraScan](https://slides.com/sangambiradar/extend-gitops-security-with-terrascan)<br>
+[DockerFile Security Best Practices ](https://slides.com/sangambiradar/dockerfile-best-practices/fullscreen)<br>
+[Secure Infrastructure as Code / k8s / Helm Charts with Github Action](https://slides.com/sangambiradar/iac-terrascan-github-action)<br>
+[Demistifying Kubernetes Security](https://slides.com/sangambiradar/demistifying-kubernetes-security/fullscreen)<br>
+[Developing End to End Rust App Using Docker Desktop - DockerCon2022](https://slides.com/sangambiradar/dockercon2022)<br>
+[An Ultimate Guide to Pod Security that every k8s Developers Must Know](https://slides.com/sangambiradar/pod-security)<br>
 
