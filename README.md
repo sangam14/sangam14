@@ -4,6 +4,7 @@
 #### Blogs 
 
 [☄️Introduction To Golang - Part 1](https://blog.cloudnativefolks.org/introduction-to-golang-part-1) <br>
+[☄️Introduction To Golang - Part 2](https://blog.cloudnativefolks.org/introduction-to-golang-part-2) <br>
 [🔥less risky business way to reduce cloud-native provisioning issues](https://blog.cloudnativefolks.org/less-risky-business-way-to-reduce-cloud-native-provisioning-issues)<br>
 [🔥Introduction To Kubernetes Part 3 - Pod’s scheduling sequence](https://blog.cloudnativefolks.org/introduction-to-kubernetes-part-3-pods-scheduling-sequence)<br>
 [🔥Introduction To Kubernetes Part 2 - Pod](https://blog.cloudnativefolks.org/introduction-to-kubernetes-part-2-pod)<br>
