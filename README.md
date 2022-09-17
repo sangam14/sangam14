@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/sangam14/sangam14/master/assets/github-profile.png">
 
 
-#### Blogs 
-
-[☄️Introduction To Golang - Part 1](https://blog.cloudnativefolks.org/introduction-to-golang-part-1) <br>
-[☄️Introduction To Golang - Part 2](https://blog.cloudnativefolks.org/introduction-to-golang-part-2) <br>
-[☄️Introduction To Golang - Part 3](https://blog.cloudnativefolks.org/introduction-to-golang-part-3) <br>
-[🔥less risky business way to reduce cloud-native provisioning issues](https://blog.cloudnativefolks.org/less-risky-business-way-to-reduce-cloud-native-provisioning-issues)<br>
-[🔥Introduction To Kubernetes Part 3 - Pod’s scheduling sequence](https://blog.cloudnativefolks.org/introduction-to-kubernetes-part-3-pods-scheduling-sequence)<br>
-[🔥Introduction To Kubernetes Part 2 - Pod](https://blog.cloudnativefolks.org/introduction-to-kubernetes-part-2-pod)<br>
-[🔥Introduction To Kubernetes - Part 1](https://blog.cloudnativefolks.org/introduction-to-kubernetes-part-1)<br>
-[☄️The Ultimate Docker CheatSheet For Everyone](https://blog.cloudnativefolks.org/the-ultimate-docker-cheatsheet-for-everyone)<br>
+#### Blogs
+| Golang                                                                                             | Docker                                                                                                                       | Kubernetes                                                                                                                                                    |
+|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Introduction To Golang - Part 1](https://blog.cloudnativefolks.org/introduction-to-golang-part-1) | [The Ultimate Docker CheatSheet For Everyone](https://blog.cloudnativefolks.org/the-ultimate-docker-cheatsheet-for-everyone) | [Introduction To Kubernetes - Part 1](https://blog.cloudnativefolks.org/introduction-to-kubernetes-part-1)                                                    |
+| [Introduction To Golang - Part 2](https://blog.cloudnativefolks.org/introduction-to-golang-part-2) |                                                                                                                              | [Introduction To Kubernetes Part 2 - Pod](https://blog.cloudnativefolks.org/introduction-to-kubernetes-part-2-pod)                                            |
+| [Introduction To Golang - Part 3](https://blog.cloudnativefolks.org/introduction-to-golang-part-3) |                                                                                                                              | [Introduction To Kubernetes Part 3 - Pod’s scheduling sequence](https://blog.cloudnativefolks.org/introduction-to-kubernetes-part-3-pods-scheduling-sequence) |
+|                                                                                                    |                                                                                                                              | [Introduction To Kubernetes Part 4 - Pod Security Standards](https://blog.cloudnativefolks.org/introduction-to-kubernetes-part-4-pod-security-standards)      |
+|                                                                                                    |                                                                                                                              | [Introduction to kubernetes - ReplicaSets](https://blog.cloudnativefolks.org/introduction-to-kubernetes-replicasets)                                          |
+|                                                                                                    |                                                                                                                              | [Introduction to kubernetes - Services](https://blog.cloudnativefolks.org/introduction-to-kubernetes-services)                                                |
+|                                                                                                    |                                                                                                                              | [Introduction to kubernetes - Deployments](https://blog.cloudnativefolks.org/introduction-to-kubernetes-deployments )                                         |
 
 
 #### Slides 
