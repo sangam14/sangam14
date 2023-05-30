@@ -4,7 +4,7 @@
 - [Docker Workshop](https://kubedaily.com/dockerworkshop/)
 - [Container Security](https://kubedaily.com/containersecurity/)
 - [Kubernetes Workshop](https://kubedaily.com/k8sworkshop/)
-- [Kubernetes Tools](https://kubedaily.com/tools/)
+- [CloudNative Tools](https://kubedaily.com/cloudnativetools/)
 - [Service Mesh Workshop] - coming soon 
 - [Terraform Workshop] - coming soon 
 
