@@ -1,12 +1,15 @@
 
 
-#### Workshop Tracks
-- [Docker Workshop](https://kubedaily.com/dockerworkshop/)
-- [Container Security](https://kubedaily.com/containersecurity/)
-- [Kubernetes Workshop](https://kubedaily.com/k8sworkshop/)
+#### Kubedaily Workshop Tracks
+- [Docker Workshop](https://kubedaily.com/docs/0.0.1/)
+- [Container Security](https://kubedaily.com/docs/0.0.1/container-security/)
+- [Kubernetes Workshop](https://kubedaily.com/docs/0.0.1/k8s/)
 - [CloudNative Tools](https://kubedaily.com/cloudnativetools/)
 - [Service Mesh Workshop] - coming soon 
-- [Terraform Workshop] - coming soon 
+- [Terraform Workshop] - coming soon
+
+#### Cloud Security Corner 
+
 
 #### [CloudNativeFolks Blogs](https://blog.cloudnativefolks.org)  
 - [Golang](https://blog.cloudnativefolks.org/series/gopherlabs) 
