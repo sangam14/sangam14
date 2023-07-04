@@ -6,12 +6,14 @@
 - [Kubernetes Workshop](https://kubedaily.com/docs/0.0.1/k8s/)
 - [CloudNative Tools](https://kubedaily.com/cloudnativetools/)
 - [Service Mesh Workshop] - coming soon 
-- [Terraform Workshop] - coming soon
+
 
 #### Cloud Security Corner 
+- [Cloud Security Fundamentals] - coming soon
 
 
 #### [CloudNativeFolks Blogs](https://blog.cloudnativefolks.org)  
+- [Terraform Workshop] - coming soon
 - [Golang](https://blog.cloudnativefolks.org/series/gopherlabs) 
 - [Docker](https://blog.cloudnativefolks.org/series/learn-docker) 
 - [Kubernetes](https://blog.cloudnativefolks.org/series/learn-k8s) 
