@@ -7,17 +7,18 @@
 - [CloudNative Tools](https://kubedaily.com/cloudnativetools/)
 - [Service Mesh Workshop] - coming soon 
 
-
 #### Cloud Security Corner 
 - [Cloud Security Fundamentals] - coming soon
-
+- [300+ Cloud Security Quiz ] - coming soon 
+#### RustLabs
+- [Rust](https://blog.cloudnativefolks.org/series/learn-rust)
 
 #### [CloudNativeFolks Blogs](https://blog.cloudnativefolks.org)  
 - [Terraform Workshop] - coming soon
 - [Golang](https://blog.cloudnativefolks.org/series/gopherlabs) 
 - [Docker](https://blog.cloudnativefolks.org/series/learn-docker) 
 - [Kubernetes](https://blog.cloudnativefolks.org/series/learn-k8s) 
-- [Rust](https://blog.cloudnativefolks.org/series/learn-rust)
+
 
 #### [Slides](https://slides.com/sangambiradar)
 
