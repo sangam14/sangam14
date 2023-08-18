@@ -11,7 +11,7 @@
 - [Cloud Security Fundamentals] - coming soon
 - [300+ Cloud Security Quiz ] - coming soon 
 #### RustLabs
-- [Rust Workshop Tracks ](rustlabs.github.io) 
+- [Rust Workshop Tracks ](https://rustlabs.github.io) 
 
 #### [CloudNativeFolks Blogs](https://blog.cloudnativefolks.org)  
 - [Terraform Workshop] - coming soon
