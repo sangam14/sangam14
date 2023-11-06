@@ -13,7 +13,7 @@
 
 #### Cloud Security Corner 
 - [Cloud Security Fundamentals] - coming soon
-- [300+ Cloud Security Quiz ] - coming soon 
+- [300+ Cloud Security Quiz ](https://cloudsecuritycorner.com/quiz/) 
 
 
 #### [CloudNativeFolks Blogs](https://blog.cloudnativefolks.org)  
