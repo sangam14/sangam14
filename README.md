@@ -5,9 +5,9 @@
 - [Rust Workshop Tracks ](https://rustlabs.github.io) 
 
 #### Kubedaily Workshop Tracks
-- [Docker Workshop](https://kubedaily.com/docs/0.0.1/)
-- [Container Security](https://kubedaily.com/docs/0.0.1/container-security/)
-- [Kubernetes Workshop](https://kubedaily.com/docs/0.0.1/k8s/)
+- [Docker Workshop](https://kubedaily.com/docker/overview/)
+- [Container Security](https://kubedaily.com/containersecurity/overview/)
+- [Kubernetes Workshop](https://kubedaily.com/k8s/overview/)
 - [CloudNative Tools](https://kubedaily.com/cloudnativetools/)
 - [Service Mesh Workshop] - coming soon 
 
