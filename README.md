@@ -2,7 +2,10 @@
 - [Linux Collective](https://linuxcollective.github.io)
 
 #### RustLabs
-- [Rust Workshop Tracks ](https://rustlabs.github.io) 
+- [Rust Workshop Tracks ](https://rustlabs.github.io)
+
+#### WebAssembly (WASM) 
+- [WebAssembly(WASM) Tools](https://wasmjam.github.io/wasmtools/)
 
 #### Kubedaily Workshop Tracks
 - [Docker Workshop](https://kubedaily.com/docker/overview/)
