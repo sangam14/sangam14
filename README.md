@@ -25,6 +25,10 @@
 - [Docker](https://blog.cloudnativefolks.org/series/learn-docker) 
 - [Kubernetes](https://blog.cloudnativefolks.org/series/learn-k8s) 
 
+#### Newsletter's 
+- [CloudNativeFolks Newsletter](https://cloudnativefolks.github.io/newsletter/) 
+- [RustLabs Newsletter]()
+- [WasmJam Newsletter]()
 
 #### [Slides](https://slides.com/sangambiradar)
 
